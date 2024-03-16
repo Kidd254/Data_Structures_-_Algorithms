@@ -11,5 +11,6 @@ function isPrime(n) {
 
   return true;
 }
+
 console.log(isPrime(7)); // Should return true
 console.log(isPrime(14)); // Should return false
